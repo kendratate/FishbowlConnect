@@ -1,0 +1,14 @@
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\bin\Debug\QuickbooksFishbowl.exe.config
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.csprojResolveAssemblyReference.cache
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\MainWindow.g.cs
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\App.g.cs
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl_MarkupCompile.cache
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl_MarkupCompile.lref
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\bin\Debug\QuickbooksFishbowl.exe
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\bin\Debug\QuickbooksFishbowl.pdb
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\MainWindow.baml
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.g.resources
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.Properties.Resources.resources
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.csproj.GenerateResource.Cache
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.exe
+C:\Users\kendra\Documents\Visual Studio 2015\Projects\QuickbooksFishbowl\QuickbooksFishbowl\obj\Debug\QuickbooksFishbowl.pdb
